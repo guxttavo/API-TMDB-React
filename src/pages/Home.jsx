@@ -1,5 +1,9 @@
+import { useState, useEffect } from "react";
+
+
 const Home = () => {
-  return <div>Return home</div>
+  return (<div>NavBar</div>)
+
 }
 
 export default Home
